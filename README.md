@@ -1,3 +1,4 @@
+![banner](https://github.com/ltsvn/Anastasiia-Lutsiv/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Front-end developer)</h3>
 
