@@ -1,18 +1,22 @@
 ![banner](https://github.com/ltsvn/Anastasiia-Lutsiv/blob/main/github-header-image%20(4).png)
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Anastasiia Lutsiv</h1>
 <h3 align="center">A passionate Front-end developer)</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159"/>
 
-- 🌱 **My focus has been on React, TypeScript, JavaScript, Redux, Axios, and other related technologies.**
+<div dir="rtl">
+  
+🔭  I am currently studying Management at university while simultaneously pursuing programming studies at the IT-Incubator company for the       past 10 months.
 
-- 🤝 **I have been actively developing practical skills in web development, including building interactive interfaces using React, implementing state management with Redux, and integrating APIs with Axios. Additionally, my background in Management equips me with project management, communication, and teamwork skills that complement my technical expertise.**
+🤝  I have been actively developing practical skills in web development, including building interactive interfaces using React, implementing     state management with Redux, and integrating APIs with Axios. Additionally, my background in Management equips me with project              management, communication, and teamwork skills that complement my technical expertise.
 
-- 💬 **I am excited to further expand my skills and contribute my expertise to challenging projects that require a blend of business acumen and programming proficiency. Let's embark on this journey together!**
+💬  I am excited to further expand my skills and contribute my expertise to challenging projects that require a blend of business acumen and     programming proficiency. Let's embark on this journey together!
 
-- 📫 How to reach me **nastaluciv@gmail.com**
+📫  How to reach me: nastaluciv@gmail.com
 
-- ⚡ **In addition to my passion for Management and programming, I also have a love for spending time at the gym. When I'm not coding or studying, you can often find me lifting weights and getting my sweat on.**
+⚡  In addition to my passion for Management and programming, I also have a love for spending time at the gym. When I'm not coding or           studying, you can often find me lifting weights and getting my sweat on.
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
