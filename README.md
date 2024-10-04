@@ -6,16 +6,15 @@
 
 <div dir="rtl">
   
-🔭  I am currently studying Management at university while simultaneously pursuing programming studies at the IT-Incubator company for the       past 10 months.
+🔭 I hold a Master's degree and am currently attending a post-secondary school, while actively working as a React and Next.js developer for the past 10 months. In addition to my main job, I occasionally take on freelance projects, delivering complete solutions on React, Webflow, and Shopify, with a focus on SEO optimization, design, and content.
 
-🤝  I have been actively developing practical skills in web development, including building interactive interfaces using React, implementing     state management with Redux, and integrating APIs with Axios. Additionally, my background in Management equips me with project              management, communication, and teamwork skills that complement my technical expertise.
+🤝 My experience includes building dynamic and user-friendly web applications, optimizing them for search engines, and crafting intuitive designs. My technical expertise is complemented by strong communication and project management skills, allowing me to handle projects efficiently from start to finish.
 
-💬  I am excited to further expand my skills and contribute my expertise to challenging projects that require a blend of business acumen and     programming proficiency. Let's embark on this journey together!
+💬 I'm eager to bring my skills to new, challenging projects where I can make a meaningful impact with a mix of development, design, and business strategy. Let’s collaborate to create something exceptional!
 
-📫  How to reach me: nastaluciv@gmail.com
+📫 How to reach me: nastaluciv@gmail.com
 
-⚡  In addition to my passion for Management and programming, I also have a love for spending time at the gym. When I'm not coding or           studying, you can often find me lifting weights and getting my sweat on.
-
+⚡ Outside of work, I’m passionate about fitness and enjoy spending time at the gym. You’ll often find me lifting weights and focusing on overall health and well-being when I’m not coding or designing.
 </div>
 
 <h3 align="left">Connect with me:</h3>
